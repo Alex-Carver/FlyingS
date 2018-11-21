@@ -88,6 +88,19 @@ header {
     border-color: #61A999;
 }
 
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 160px;
+    left: 15%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+    background: rgba(236,223,200,.6);
+}
+
 /*---Section 1 Styles-----*/
 
 section#section-1{
